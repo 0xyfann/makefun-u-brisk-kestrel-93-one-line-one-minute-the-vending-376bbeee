@@ -1,0 +1,3 @@
+Write one original pickup line, at most 200 characters, as if a vending machine were flirting with a passing human. The line must be spoken by the machine itself, use the machine's own world (its slot, buttons, coils, snacks, hum, exact change), land its laugh in the last few words, be short and speakable in one breath, and be charming rather than creepy. No picture or caption needed — the line must stand on its own as plain text.
+
+Write a small Python program (standard library only) that writes exactly that one line to /output/entry.txt, honouring the MAKEFUN_OUTPUT_DIR environment variable.
